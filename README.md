@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Le Thi Ngoc Tran
-- 👀 I’m interested in Android Application, JavaScript
-- 🌱 I’m currently learning android
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in programming languages Java, JavaScript
+- 🌱 I’m currently learning Java and ReactJs
 
 <!---
 tranngocle/tranngocle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
